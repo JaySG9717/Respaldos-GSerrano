@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Respaldos Automatizados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ad27c223b0bf084b78e4cadbe6e9d22c9f4f185")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+394a41cdbe12e47820f7a747fd46e6706ebcf402")]
 [assembly: System.Reflection.AssemblyProductAttribute("Respaldos Automatizados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Respaldos Automatizados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

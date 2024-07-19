@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jay Foxy\\Source\\Repos\\Respaldos-Automaticos\\Respaldos Automatizados\\Respaldos Automatizados\\Respaldos Automatizados.csproj",
+      "projectUniqueName": "C:\\Users\\Jay Foxy\\Desktop\\Respaldos Automatizados\\Respaldos Automatizados\\Respaldos Automatizados.csproj",
       "projectName": "Respaldos Automatizados",
-      "projectPath": "C:\\Users\\Jay Foxy\\Source\\Repos\\Respaldos-Automaticos\\Respaldos Automatizados\\Respaldos Automatizados\\Respaldos Automatizados.csproj",
+      "projectPath": "C:\\Users\\Jay Foxy\\Desktop\\Respaldos Automatizados\\Respaldos Automatizados\\Respaldos Automatizados.csproj",
       "packagesPath": "C:\\Users\\Jay Foxy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jay Foxy\\Source\\Repos\\Respaldos-Automaticos\\Respaldos Automatizados\\Respaldos Automatizados\\obj\\",
+      "outputPath": "C:\\Users\\Jay Foxy\\Desktop\\Respaldos Automatizados\\Respaldos Automatizados\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jay Foxy\\AppData\\Roaming\\NuGet\\NuGet.Config",
